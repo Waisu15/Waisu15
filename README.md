@@ -7,3 +7,4 @@
 <a href="https://www.youtube.com/channel/UC77lJtZ6z1-JCAyfBZFUTjQ" target="_blank"><img src="https://img.shields.io/badge/youtube-r89DA.svg?&color=ff0000&style=for-the-badge&logo=youtube&logoColor=white"/></a>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Waisu242&show_icons=true&hide_title=true&theme=7193FF&text_color=0A72B3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waisu242&layout=compact&text_color=7193FF&title_color=7193FF&bg_color=0A72B3)](https://github.com/Waisu242)
